@@ -1,0 +1,45 @@
+body {
+	background-color: #aabbff; 
+	text-align: center;
+	  margin:0% 0%;
+	  padding : 0.6em;
+	  font-family:"Trebuchet MS",Verdana,Geneva,Arial,Helvetica,sans-serif;
+	  font-size:0.8em;
+	
+}
+
+#formu {
+	width: 555px;
+	margin-top: 200;
+    margin-bottom: auto;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 55px;
+	background-color: #ffffff;
+	box-shadow: 0px 0px 5px #0361A8;
+	border-radius: 15px;
+}
+
+#formu table{
+	text-align: center;
+}
+#forfait {
+	width: 555px;
+	margin-top: 200;
+    margin-bottom: auto;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 55px;
+	background-color: #ffffff;
+	box-shadow: 0px 0px 5px #0361A8;
+	border-radius: 15px;
+}
+
+#menuGauche {
+	margin-top : 0.8em;
+	padding: 1em;
+	background-color: white;
+	color: rgb(0,85,227);
+	float: left;
+	width: 14%;
+}
